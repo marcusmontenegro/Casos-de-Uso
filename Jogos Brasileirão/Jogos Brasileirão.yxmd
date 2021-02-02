@@ -1155,7 +1155,7 @@ Saldo de gols - Descending</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <File FileFormat="64" MaxRecords="">D:\Blackhill\Blackhill Ninja\Amigo Ninja\1 - Tableau - Marcelo(Jamal)\Tabela geral.hyper</File>
+          <File FileFormat="64" MaxRecords="">.\Tabela geral.hyper</File>
           <Passwords />
           <FormatSpecificOptions>
             <OutputOption>Overwrite</OutputOption>
@@ -1167,6 +1167,9 @@ Saldo de gols - Descending</DefaultAnnotationText>
           <DefaultAnnotationText>Tabela geral.hyper</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
@@ -1176,7 +1179,7 @@ Saldo de gols - Descending</DefaultAnnotationText>
       </GuiSettings>
       <Properties>
         <Configuration>
-          <File FileFormat="64" MaxRecords="">D:\Blackhill\Blackhill Ninja\Amigo Ninja\1 - Tableau - Marcelo(Jamal)\Histórico de jogos.hyper</File>
+          <File FileFormat="64" MaxRecords="">.\Histórico de jogos.hyper</File>
           <Passwords />
           <FormatSpecificOptions>
             <OutputOption>Overwrite</OutputOption>
@@ -1188,6 +1191,9 @@ Saldo de gols - Descending</DefaultAnnotationText>
           <DefaultAnnotationText>Histórico de jogos.hyper</DefaultAnnotationText>
           <Left value="False" />
         </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
       </Properties>
       <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
     </Node>
